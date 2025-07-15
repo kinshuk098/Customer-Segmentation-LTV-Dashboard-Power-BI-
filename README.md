@@ -8,7 +8,7 @@ This project explores customer behavior from an e-commerce dataset to calculate 
 - Identify revenue-driving customer groups (VIPs, High Spenders)
 - Build an interactive Power BI dashboard for insights
 
-## 🛠 Tools Used:
+## 🛠 Tools and Technique Used:
 - Power BI (DAX, Power Query)
 - Python (for clustering)
 - Excel (preprocessing)
